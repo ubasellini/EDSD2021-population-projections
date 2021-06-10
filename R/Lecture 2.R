@@ -2,7 +2,7 @@
 ## EDSD 2020-2021: Population projections
 ## Lecture 2
 ## The cohort component method
-## Date: 08/06/2020
+## Date: 08/06/2021
 ## Instructor: Ugofilippo Basellini
 ## -------------------------------------------- ##
 
